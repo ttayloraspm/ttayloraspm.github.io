@@ -5,7 +5,7 @@ responsive, dark-mode ready Jekyll theme designed for use as a personal website 
 ## Features
 - Responsive
 - Respects Dark Mode preference set by user
-- Projects Page to showcase your work/side projects
+- docs Page to showcase your work/side docs
 - Easily link to your profiles on ResearchGate and ORCID
 
 ## Installation
